@@ -1,5 +1,12 @@
+import { Fragment } from 'react';
+
 const PostDetailPage = () => {
-  return();
+  return(
+
+
+  );
 }
 
 export default PostDetailPage;
+
+
