@@ -1,7 +1,7 @@
-import './featured-posts.module.css';
+import classes from './featured-posts.module.css';
 
 const FeaturedPosts = props => {
-  return();
+  return;
 }
 
-export default FeaturedPosts = ();
+export default FeaturedPosts;
